@@ -13,7 +13,7 @@
 
 在cmd中运行
 
-```pip install requests beautifulsoup4 cryptography```
+`pip install requests beautifulsoup4 cryptography`
 
 3.用户信息配置
 打开userInfo.json，将学号和密码填入，并保存为json文件。
