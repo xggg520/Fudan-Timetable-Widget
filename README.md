@@ -10,6 +10,7 @@
 - iOS 18或26系统
 
 2.安装依赖
+
 在cmd中运行
 
 ```pip install requests beautifulsoup4 cryptography```
